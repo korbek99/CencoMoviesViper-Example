@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A80CEF1-7FA5-429E-BC8E-0C6854FF78D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF776F5B-DEDF-4B91-9C76-A1D26241DE31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/TopRatesMovies/TopRatesMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19275130-64A7-41F8-8865-B60DA2FA0D7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/PopularMovies/PopularMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getInfoMoviesPopularInteractor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5902819B-0A67-4C28-9403-775F1F705064"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/TopRatesMovies/TopRatesMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getInfoMoviesTopInteractor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5902819B-0A67-4C28-9403-775F1F705064 - 8328201b80da139a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CencoMovieViper.TopRatesMoviesInteractor.getInfoMoviesTopInteractor() -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/TopRatesMovies/TopRatesMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "5902819B-0A67-4C28-9403-775F1F705064 - 8328201b80da139a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CencoMovieViper.TopRatesMoviesInteractor.getInfoMoviesTopInteractor() -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/TopRatesMovies/TopRatesMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "5902819B-0A67-4C28-9403-775F1F705064 - 4ca935034a3feddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;CencoMovieViper.Result&gt;&gt;) -&gt; () in CencoMovieViper.TopRatesMoviesInteractor.getInfoMoviesTopInteractor() -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/TopRatesMovies/TopRatesMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67ED7B64-BA5B-4CA5-8F87-7AFEFCDE90F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/PopularMovies/PopularMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getInfoMoviesPopularInteractor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67ED7B64-BA5B-4CA5-8F87-7AFEFCDE90F1 - 2b00636e5f6b438f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CencoMovieViper.PopularMoviesInteractor.getInfoMoviesPopularInteractor() -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/PopularMovies/PopularMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "67ED7B64-BA5B-4CA5-8F87-7AFEFCDE90F1 - 2b00636e5f6b438f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CencoMovieViper.PopularMoviesInteractor.getInfoMoviesPopularInteractor() -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/PopularMovies/PopularMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "67ED7B64-BA5B-4CA5-8F87-7AFEFCDE90F1 - ec6b8d301d98efb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;CencoMovieViper.Result&gt;&gt;) -&gt; () in CencoMovieViper.PopularMoviesInteractor.getInfoMoviesPopularInteractor() -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/PopularMovies/PopularMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1987443A-602A-4F32-995C-1A1BF06166AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B236D5A1-7164-4723-8596-2156F5E8A653"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/TopRates/webServicesTopRates.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72E46844-1D74-4D9C-8816-ABF31F412E21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5071B5C0-E4D9-4E12-873F-EF4C579F3070"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5071B5C0-E4D9-4E12-873F-EF4C579F3070 - b0ba28df193bbe0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CencoMovieViper.webServicesPopular.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;CencoMovieViper.Result&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "326">
+               </Location>
+               <Location
+                  uuid = "5071B5C0-E4D9-4E12-873F-EF4C579F3070 - b0ba28df193bbe0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CencoMovieViper.webServicesPopular.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;CencoMovieViper.Result&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CencoMovieViper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/korbek100/Documents/Desarrollos%20IOS/CencoMovieViper/CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70278508-C342-4132-824E-7DE7AA5E8BD4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD02E794-9B20-472F-83F2-4C8A5502CB00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/PopularMovies/PopularMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getInfoMoviesPopularInteractor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D2BD240-57B6-4AEA-BF61-1847C57BD899"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56EE4940-6A46-47AE-B97A-52E1C2E53FF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/API/Popular/WebServicesPopularProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C255EA8-A41B-4373-843C-4511545C5C5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/TopRatesMovies/Cells/TopRatesViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "configure(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A344793D-DBCA-4B3C-8040-838D531959D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/TopRatesMovies/Cells/TopRatesViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "configure(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BB0CF7F-1624-4476-A511-8AEC4ADE7782"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CencoMovieViper/TopRatesMovies/ViewController/Cells/BodyTableViewTopCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "configure(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="tXP-xO-rFe">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Top Rates Movies-->
+        <scene sceneID="rNv-6T-NpL">
+            <objects>
+                <viewController storyboardIdentifier="TopRatesMoviesViewController" id="7hl-4c-7Kg" customClass="TopRatesMoviesViewController" customModule="CencoMovieViper" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="dnQ-Dl-w2G">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="4jB-Dx-BQx"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Top Rates Movies" id="iRM-rL-G10"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Lzu-I6-Za8" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1131.8840579710145" y="205.58035714285714"/>
+        </scene>
+        <!--Top Rates Details View Controller-->
+        <scene sceneID="Wm0-lv-qxk">
+            <objects>
+                <viewController storyboardIdentifier="TopRatesDetailsViewController" id="MbO-a0-ZYS" customClass="TopRatesDetailsViewController" customModule="CencoMovieViper" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8Jo-0l-8w3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="W08-ei-0ht"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6gY-VM-852" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1880" y="212"/>
+        </scene>
+        <!--Popular Movies-->
+        <scene sceneID="UO9-iJ-ghJ">
+            <objects>
+                <viewController storyboardIdentifier="PopularMoviesViewController" id="STQ-El-Zm2" customClass="PopularMoviesViewController" customModule="CencoMovieViper" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="TqD-OX-rxc">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="7jM-VD-ObF"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Popular Movies" id="vMm-cs-2e6"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IXI-bJ-qOM" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1131.8840579710145" y="-459.375"/>
+        </scene>
+        <!--Popular Details View Controller-->
+        <scene sceneID="pJF-Ve-eoS">
+            <objects>
+                <viewController storyboardIdentifier="PopularDetailsViewController" id="ADh-F0-tNc" customClass="PopularDetailsViewController" customModule="CencoMovieViper" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="t48-8t-A1n">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="CgD-nv-56B"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NGj-m1-g3E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1883" y="-455"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="gtZ-1w-lJq">
+            <objects>
+                <tabBarController id="tXP-xO-rFe" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="gSi-xF-0Ez">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="R5n-kx-bWQ" kind="relationship" relationship="viewControllers" id="gwr-02-J4T"/>
+                        <segue destination="fdg-Wl-f7d" kind="relationship" relationship="viewControllers" id="nh0-P0-ghb"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FJQ-Cu-Bd4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-668" y="-155"/>
+        </scene>
+        <!--Popular-->
+        <scene sceneID="ndC-qY-j2n">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="R5n-kx-bWQ" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Popular" image="suit.heart.fill" catalog="system" id="gYq-7u-mBv"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="YCK-TN-Mrx">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="STQ-El-Zm2" kind="relationship" relationship="rootViewController" id="X8r-qA-dJ1"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jzw-TD-tNG" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="221.73913043478262" y="-459.375"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Rti-2r-gFB">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="fdg-Wl-f7d" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" systemItem="topRated" id="4Ef-Jt-iAQ"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="nOY-1f-e27">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="7hl-4c-7Kg" kind="relationship" relationship="rootViewController" id="PZF-aj-j4b"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="veD-tM-0pz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="221.73913043478262" y="205.58035714285714"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="suit.heart.fill" catalog="system" width="128" height="109"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

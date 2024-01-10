@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crearIssue</key>
+	<dict>
+		<key>url</key>
+		<string>https://api.themoviedb.org/3/movie/popular?api_key=34738023d27013e6d1b995443764da44</string>
+		<key>x-api-key</key>
+		<string>yL285dvequN1GLt1yUCdpiHy8L8lJOlO</string>
+	</dict>
+	<key>crearIssueTop</key>
+	<dict>
+		<key>url</key>
+		<string>https://api.themoviedb.org/3/movie/top_rated?api_key=34738023d27013e6d1b995443764da44</string>
+		<key>x-api-key</key>
+		<string>yL285dvequN1GLt1yUCdpiHy8L8lJOlO</string>
+	</dict>
+</dict>
+</plist>
